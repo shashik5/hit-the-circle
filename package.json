@@ -1,0 +1,27 @@
+{
+  "name": "hit-the-circle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashik5/hit-the-circle.git"
+  },
+  "author": "Shashi Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashik5/hit-the-circle/issues"
+  },
+  "homepage": "https://github.com/shashik5/hit-the-circle#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

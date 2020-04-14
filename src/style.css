@@ -1,0 +1,41 @@
+.container {
+    max-width: 700px;
+    margin-bottom: 20px;
+}
+
+.scoreBoardContainer {
+    text-align: right;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 5px;
+}
+
+.row {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.label {
+    margin-right: 8px;
+}
+
+.scoreBoard {
+    width: 200px;
+    display: inline-block;
+}
+
+.btn {
+    margin-right: 10px;
+    min-width: 75px;
+}
+
+.buttonContainer {
+    text-align: right;
+}
+
+.headerContainer {
+    text-align: center;
+}
+
+.hitButton {
+    cursor: pointer;
+}
